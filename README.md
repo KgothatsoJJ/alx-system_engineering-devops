@@ -1,0 +1,2 @@
+THIS IS THE ALX LOW LEVEL PROGRAMMING ON SHELL BASICS
+0x02. Shell, I/O Redirections and filters 
